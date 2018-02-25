@@ -1,5 +1,5 @@
 # Segmentation of arterial walls in intravascular ultrasound cross-sectional images using extremal region selection
-**Authors:** [Mehdi Faraji]( www.ualberta.ca/~faraji ), [Irene Cheng]( ), [Iris Nadin](  ), [Anup Basu]( https://scholar.google.ca/citations?user=x8Nn-jQAAAAJ&hl=en&oi=sra )
+**Authors:** [Mehdi Faraji]( https://www.ualberta.ca/~faraji ), [Irene Cheng]( ), [Iris Nadin](  ), [Anup Basu]( https://scholar.google.ca/citations?user=x8Nn-jQAAAAJ&hl=en&oi=sra )
 
 The implementation code of the IVUS segmentation will be available soon.
 
